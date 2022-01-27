@@ -12,7 +12,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ### Conhecimento usado no desafio
 
 -HTML usado para semanticamente para melhor acessibilidade
+<br>
 -CSS exercitado com flexbox, reset basico de css para melhor aproveitamento do CSS, uso de keyframes e outros comandos css para personalizacão da pagina
+<br>
 -JS para uso de algumas animacões
 
 ## 📫 Quer executar o Desafio e aprender?
