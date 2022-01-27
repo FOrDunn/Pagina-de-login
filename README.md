@@ -9,6 +9,11 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Tarefa 1      Executar o Desafio e concluir uma pagina funcional com animação para login e cadastro
 
+### Conhecimento usado no desafio
+
+-HTML usado para semanticamente para melhor acessibilidade
+-CSS exercitado com flexbox, reset basico de css para melhor aproveitamento do CSS, uso de keyframes e outros comandos css para personalizacão da pagina
+-JS para uso de algumas animacões
 
 ## 📫 Quer executar o Desafio e aprender?
 Aqui estão os links para executar o projeto
